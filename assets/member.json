@@ -1,0 +1,21 @@
+
+{
+"employees":
+[
+  {
+    "name": "Haider Ali",
+    "designation": "Director",
+    "phone no": 9230066854
+  },
+  {
+    "name": "Muhammad",
+    "designation": "Manager",
+    "phone no": 9236224726
+  },
+  {
+    "name": "Umer",
+    "designation": "Developer",
+    "phone no": 9236847456
+  }
+]
+}
